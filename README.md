@@ -1,5 +1,7 @@
 ### Fabric
 
+[![DepShield Badge](https://depshield.sonatype.org/badges/iongion/fabric.js/depshield.svg)](https://depshield.github.io)
+
 <!-- chat, support -->
 
 [![Gitter](https://badges.gitter.im/JoinChat.svg)](https://gitter.im/kangax/fabric.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
